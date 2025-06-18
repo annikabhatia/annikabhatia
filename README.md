@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Annika Bhatia
+# 👋 Hello, I'm Annika Bhatia!
 
-I'm a Computer Science and Data Science student passionate about solving real-world problems through code, data, and analytical thinking. I love working on projects that incorporate other fields with technology, such as social sciences and business, through software development or data-driven insights.
+Welcome to my Github!
+
+## 📌 About Me
+- 🎓 Currently studying Computer Science and Data Science at Rutgers University
+- 🌱 Always learning and improving my skills in programming, problem-solving, analytical thinking, and development
+- 💡 Interested in contributing to real-world projects that incorporate other fields with technology, such as social sciences and business, through software development or data-driven insights.
 
 ## 🧰 Languages & Tools
 
