@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Annika Bhatia! Welcome to my GitHub!
+##👋 Hi there, I'm Annika Bhatia! Welcome to my GitHub!
 
 I'm a Computer Science and Data Science student passionate about solving real-world problems through code, data, and analytical thinking. I love working on projects that incorporate other fields with technology, such as social sciences and business, through software development or data-driven insights.
 
