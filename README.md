@@ -3,7 +3,7 @@
 Welcome to my Github!
 
 ## 📌 About Me
-- 🎓 Currently studying Computer Science and Data Science at Rutgers University
+- 🎓 Currently pursuing a double major in CS/Data Science and minor in Economics at Rutgers University
 - 🌱 Always learning and improving my skills in programming, problem-solving, analytical thinking, and development
 - 💡 Interested in contributing to real-world projects that incorporate other fields with technology, such as social sciences and business, through software development or data-driven insights.
 
