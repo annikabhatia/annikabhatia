@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
   **Tech:** HTML, VSCode
 
 
-- **🎵 [Spotify Data Analysis (Data 101)](https://github.com/annikabhatia/data101/blob/main/README.md)**  
+- **🎵 [Spotify Data Analysis](https://github.com/annikabhatia/spotify_analysis/blob/main/README.md)**  
   _Analyzed song features like valence and danceability to identify trends and patterns in music_  
   **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
   
