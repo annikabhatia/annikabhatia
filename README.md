@@ -29,13 +29,18 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 > 🔗 *Click project titles to view GitHub repos (if public)*
 
-- **💰 Personal Finance Planner (Hackathon Project)**  
-  _Java-based budget/expense tracking application with financial goals, alerts, and AI tips_  
-  **Tech:** Java, VS Code, Object-Oriented Design, GUI
+- **💰 [Personal Finance Planner (Hackathon Project)](https://github.com/annikabhatia/SavvySpending)**  
+  _HTML-based budget/expense tracking application with financial goals, alerts
+  **Tech:** HTML, VSCode
 
 - **🎵 Spotify Data Analysis (Data 101)**  
   _Analyzed song features to understand trends using R and created visualizations using ggplot2_  
   **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
+  
+- **📚 [eCornell Data Analytics Portfolio](https://github.com/annikabhatia/my_eCornell_portfolio)**  
+  _Projects and case studies from eCornell’s Data Analytics certificate program, focused on real-world applications of data visualization, regression, and business insights_  
+  **Tech:** Jupyter Notebook, Matplotlib, Pandas, NumPy, Scikit learn
+
 
 
 _✨ More coming soon!_
