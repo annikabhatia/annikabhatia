@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
   _Analyzed song features like valence and danceability to identify trends and patterns in music_  
   **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
 
-
-_✨ More coming soon!_
-
+- **✨ [AI Studio Project](https://github.com/annikabhatia/ai_studio_project)**  
+  _Incoming project for Fall 2025!_  
+  
 ---
 
 ## 🌐 Let's Connect!
