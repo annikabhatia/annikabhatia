@@ -1,36 +1,57 @@
 # 👋 Hello, I'm Annika Bhatia!
 
-Welcome to my Github!
+Welcome to my GitHub profile! I'm passionate about building impactful software and using data to tell meaningful stories.
+
+---
 
 ## 📌 About Me
-- 🎓 Currently pursuing a double major in CS/Data Science and minor in Economics at Rutgers University
-- 🌱 Always learning and improving my skills in programming, problem-solving, analytical thinking, and development
-- 💡 Interested in contributing to real-world projects that incorporate other fields with technology, such as social sciences and business, through software development or data-driven insights.
+- 🎓 Double majoring in **Computer Science** and **Data Science**, minoring in **Economics** at **Rutgers University**
+- 🌱 Always learning and expanding my skills in **programming**, **data analysis**, and **software development**
+- 💡 Passionate about interdisciplinary tech—especially applying computer science to **business**, **economics**, and the **social sciences**
+- 🤝 Looking to contribute to real-world projects and open-source software
 
-## 🧰 Languages & Tools
+---
 
-**Languages**  
-`Python` `Java` `R` 
+## 🛠️ Technical Skills
 
-**Data Science**  
+### 💻 Languages
+`Python` `Java` `R`
+
+### 📊 Data Science & Machine Learning
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter Notebooks`
 
-## 📫 Contact Me
+### 🔧 Other Tools & Tech
+`Git` `VS Code` `Google Colab` `RStudio`
 
-- 📧 Email: annikabhatia21@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/annikabhatia](www.linkedin.com/in/annika-bhatia)  
+---
 
-<!--
-**annikabhatia/annikabhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+> 🔗 *Click project titles to view GitHub repos (if public)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **💰 Personal Finance Planner (Hackathon Project)**  
+  _Java-based budget/expense tracking application with financial goals, alerts, and AI tips_  
+  **Tech:** Java, VS Code, Object-Oriented Design, GUI
+
+- **🎵 Spotify Data Analysis (Data 101)**  
+  _Analyzed song features to understand trends using R and created visualizations using ggplot2_  
+  **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
+
+
+_✨ More coming soon!_
+
+---
+
+## 🌐 Let's Connect!
+
+- 📧 Email: [annikabhatia21@gmail.com](mailto:annikabhatia21@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/annika-bhatia](https://www.linkedin.com/in/annika-bhatia)
+
+---
+
+## 📊 GitHub Highlights
+
+<!-- Replace with actual widgets if you enable GitHub Readme Stats -->
+![Annika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annikabhatia&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annikabhatia&layout=compact&theme=radical)
+
