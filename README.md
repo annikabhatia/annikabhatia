@@ -37,11 +37,6 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 - **🎵 [Spotify Data Analysis](https://github.com/annikabhatia/spotify_analysis/blob/main/README.md)**  
   _Analyzed song features like valence and danceability to identify trends and patterns in music_  
   **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
-  
-- **📚 [eCornell Data Analytics Portfolio](https://github.com/annikabhatia/my_eCornell_portfolio)**  
-  _Projects and case studies from eCornell’s Data Analytics certificate program, focused on real-world applications of data visualization, regression, and business insights_  
-  **Tech:** Jupyter Notebook, Matplotlib, Pandas, NumPy, Scikit learn
-
 
 
 _✨ More coming soon!_
