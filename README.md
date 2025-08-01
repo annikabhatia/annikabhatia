@@ -50,9 +50,5 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 ---
 
-## 📊 GitHub Highlights
 
-<!-- Replace with actual widgets if you enable GitHub Readme Stats -->
-![Annika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annikabhatia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annikabhatia&layout=compact&theme=radical)
 
