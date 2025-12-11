@@ -38,8 +38,9 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
   _Analyzed song features like valence and danceability to identify trends and patterns in music_  
   **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
 
-- **✨ [AI Studio Project](https://github.com/annikabhatia/Abt_Global_1B)**  
-  _Predicting Electrical Power Outages with Weather and Climate Data_
+- **✨ [Predicting Electrical Power Outages with Weather and Climate Data](https://github.com/annikabhatia/Abt_Global_1B)**  
+  _End-to-end Python AI/ML pipeline showcasing weather data collection, preprocessing, feature engineering, modeling, and visualization._
+  **Tech:** `numpy`, `pandas`, `Scikit-lean`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`, 
   
 ---
 
