@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 - **✨ [Predicting Electrical Power Outages with Weather and Climate Data](https://github.com/annikabhatia/Abt_Global_1B)**  
   _End-to-end Python AI/ML pipeline showcasing weather data collection, preprocessing, feature engineering, modeling, and visualization._
-  **Tech:** `numpy`, `pandas`, `Scikit-lean`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`, 
+  **Tech:** `numpy`, `pandas`, `Scikit-lean`, `Matplotlib`, `Seaborn`, `Jupyter Notebook` 
   
 ---
 
