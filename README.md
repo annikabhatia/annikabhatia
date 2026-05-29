@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 - **💰 [Credit Card Spending Prediction](https://github.com/annikabhatia/cs210_final_project)**  
   _Machine learning model to predict a customer’s next-month credit card spending using historical transaction data_
-  **Tech:** Jupyter Notebook, Python, SQL, Regression Modeling, `pandas`, `numpy`, `Matplotlib`, `seaborn`
+  **Tech:** `Jupyter Notebook`, `Python`, `SQL`, `Regression Modeling`, `pandas`, `numpy`, `Matplotlib`, `seaborn`
 
 - **✨ [Predicting Electrical Power Outages with Weather and Climate Data](https://github.com/annikabhatia/Abt_Global_1B)**  
   _End-to-end Python AI/ML pipeline showcasing weather data collection, preprocessing, feature engineering, modeling, and visualization._
