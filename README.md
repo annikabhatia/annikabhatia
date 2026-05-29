@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 ## 🌐 Let's Connect!
 
-- 📧 Email: [annikabhatia21@gmail.com](mailto:annikabhatia21@gmail.com)  
+- 📧 Email: [annikabhatia21@gmail.com](mailto:annika.bhatia@rutgers.edu)  
 - 💼 LinkedIn: [linkedin.com/in/annika-bhatia](https://www.linkedin.com/in/annika-bhatia)
 
 ---
