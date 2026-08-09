@@ -1,4 +1,4 @@
-# Hello, I'm Annika Bhatia!
+# Hello, I'm Annika!
 
 Welcome to my GitHub profile! I'm passionate about building impactful software and using data to tell meaningful stories.
 
