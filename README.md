@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 - **[Fraud Detection Model](https://github.com/annikabhatia/AI4ALL_2A/blob/main/README.md)**  
   _Engineered XGBoost model to predict fraudulent transactions, evaluated on 600k+ transactions_  
-  **Tech:** Python, Google Colab, Streamlit `pandas`, `numpy`, `Scikit-learn`, `Matplotlib`
+  **Tech:** `Python`, `Google Colab`, `Streamlit`, `pandas`, `numpy`, `Scikit-learn`, `Matplotlib`
   
 - **[Credit Card Spending Prediction](https://github.com/annikabhatia/cs210_final_project)**  
   _Machine learning model to predict a customer’s next-month credit card spending using historical transaction data_
