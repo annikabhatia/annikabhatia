@@ -29,6 +29,10 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 
 > 🔗 *Click project titles to view GitHub repos*
 
+- **[Fraud Detection Model](https://github.com/annikabhatia/AI4ALL_2A/blob/main/README.md)**  
+  _Engineered XGBoost model to predict fraudulent transactions, evaluated on 600k+ transactions_  
+  **Tech:** Python, Google Colab, Streamlit `pandas`, `numpy`, `Scikit-learn`, `Matplotlib`
+  
 - **[Credit Card Spending Prediction](https://github.com/annikabhatia/cs210_final_project)**  
   _Machine learning model to predict a customer’s next-month credit card spending using historical transaction data_
   **Tech:** `Jupyter Notebook`, `Python`, `SQL`, `Regression Modeling`, `pandas`, `numpy`, `Matplotlib`, `seaborn`
@@ -40,6 +44,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful software a
 - **[Spotify Data Analysis](https://github.com/annikabhatia/spotify_analysis/blob/main/README.md)**  
   _Analyzed song features like valence and danceability to identify trends and patterns in music_  
   **Tech:** R, `ggplot2`, `dplyr`, `skimr`, `readr`
+
   
 ---
 
